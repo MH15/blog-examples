@@ -1,2 +1,2 @@
-# ecs
-C# Entity Component System example from my blog
+# blog-examples
+Examples from my blog, [matthall.codes](https://matthall.codes).
